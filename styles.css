@@ -1,0 +1,55 @@
+body {
+    background-color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+section {
+    border: 1px dashed deeppink;
+}
+
+h1 {
+    font-size: 2em;
+    color: lavender;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+    width: 200px;
+    height: 20px;
+    border-radius: 12px;
+    border: 1px solid lightgray;
+}
+
+button {
+    margin-bottom: 6%;
+    padding: 10px 20px;
+    background-color: indigo;
+    color: lavender;
+    font-family: inherit;
+    border-radius: 14px;
+    border: none;
+}
+
+label {
+    color: lavender;
+}
+
+button:hover {
+    background-color:lavender;
+    color: indigo;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
